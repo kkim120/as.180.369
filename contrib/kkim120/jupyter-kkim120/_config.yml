@@ -1,6 +1,6 @@
 # ref: https://jupyterbook.org/en/stable/customize/config.html
 
-title: "Inflation and Stock returns"
+title: "Does inflation have an impact on stock prices?"
 author: Kunwoo Kim
 execute:
   execute_notebooks: force
